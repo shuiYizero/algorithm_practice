@@ -3,7 +3,6 @@ project(algorithm_practice)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(algorithm_practice main.cpp)
 
 add_executable(person syntax_review/person.cpp)
 add_executable(pointer syntax_review/pointer.cpp)
